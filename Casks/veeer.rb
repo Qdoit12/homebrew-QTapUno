@@ -7,5 +7,6 @@ cask 'veeer' do
   name 'VEEER'
   homepage 'https://veeer.io/'
 
-  app 'VEEER/VEEER.app'
+  app 'VEEER.app'
+
 end
